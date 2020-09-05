@@ -1,0 +1,4 @@
+﻿  labGame02.cpp
+C:\Users\chura\source\repos\labGame\labGame02\labGame02.cpp(25,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\chura\source\repos\labGame\labGame02\labGame02.cpp(25,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  labGame02.vcxproj -> C:\Users\chura\source\repos\labGame\x64\Debug\labGame02.exe
