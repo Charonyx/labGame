@@ -36,6 +36,7 @@ void draw_ship(int x, int y)
 void erase_ship(int x, int y)
 {
 	system("cls");
+//	setcolor(0, 0);
 }
 
 
