@@ -1,0 +1,7 @@
+﻿  63010159_labGame03.cpp
+C:\Users\chura\source\repos\labGame\63010159_labGame03\63010159_labGame03.cpp(24,30): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\chura\source\repos\labGame\63010159_labGame03\63010159_labGame03.cpp(24,32): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\chura\source\repos\labGame\63010159_labGame03\63010159_labGame03.cpp(32,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\chura\source\repos\labGame\63010159_labGame03\63010159_labGame03.cpp(32,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\chura\source\repos\labGame\63010159_labGame03\63010159_labGame03.cpp(57,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  63010159_labGame03.vcxproj -> C:\Users\chura\source\repos\labGame\x64\Debug\63010159_labGame03.exe
